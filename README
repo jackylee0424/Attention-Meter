@@ -1,3 +1,8 @@
 Attention Meter is able to track multiple person's real-time facial attention.
 It utilizes OpenCV 2.1 to locate faces and to analyze face movement.
-I'll add face recognition function into it in the near future.
+
+Roadmap:
+Web-based Attention Meter via Flash
+Face recognition
+Attention Meter + Video Chat
+iOS Attention Meter
