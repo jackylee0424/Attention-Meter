@@ -383,7 +383,6 @@ def detect_and_draw(img ,cascade):
                 #cv.Rectangle( img, pt3, pt4, MAGENTA, 1, 8, 0 ) #forehead
                 drawline = mf.age
                 
-    if len(faces)==0 : sendmsg(0) ## networking: send no faces msg to max/msp
     if(CAPTURING): saveAsJPG(img) 
     if (osName == "nt"): cv.Flip(img, img, 0)
     cv.ShowImage ('Camera', img)
