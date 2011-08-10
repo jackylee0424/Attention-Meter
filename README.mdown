@@ -4,6 +4,7 @@ Attention Meter
 	Attention Meter is able to track multiple person's real-time facial attention.
 	It utilizes OpenCV 2.1 to locate faces and to analyze face movement.
 	!(https://github.com/jackylee0424/Attention-Meter/raw/master/attention.jpg)
+[![](http://farm4.static.flickr.com/3382/3425636810_483f1b65a6_m.jpg)](http://farm4.static.flickr.com/3382/3425636810_b0a578bb22_o.jpg)
 
 Attention Meter (Python)
 ===============
