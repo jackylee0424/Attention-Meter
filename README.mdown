@@ -17,10 +17,10 @@ Attention Meter (Python)
 	http://br1ckb0x.fancy-bits.net/blog/?page_id=417 for installing OpenCV. 		
 	However, I haven't tried it yet.
 
-	3. For Leopard users, you may install this private framework and try 
-	>>> import cv. http://www.cs.colostate.edu/facerec/algorithms/support/OpenCV2.1_rev3291_MacOS10.6.pkg 
+	3. For Leopard users, you may install this private framework 
+	http://www.cs.colostate.edu/facerec/algorithms/support/OpenCV2.1_rev3291_MacOS10.6.pkg
+	and try >>> import cv 
 	It worked for me and saved me hours of time. Try it and let me know if 	it still works for you. 
-
 
 	* Windows Installation (This uses OpenCV 1.0 and it worked well!):
 	1. Copy python-win/ to your disk
