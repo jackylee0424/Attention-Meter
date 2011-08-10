@@ -1,8 +1,28 @@
+<h1>Attention Meter</h1>
 Attention Meter is able to track multiple person's real-time facial attention.
 It utilizes OpenCV 2.1 to locate faces and to analyze face movement.
 
+<h3>Attention Meter (Python)</h3>
+<h4>Mac Installation:</h4>
+1. You need to have OpenCV installed. In Python shell, try >>> import cv.
+if there is no error, it means you should be able to run Attention Meter $ python attention.py
+
+2. For Lion users, your best bet is to follow http://br1ckb0x.fancy-bits.net/blog/?page_id=417 for installing OpenCV. However I haven't tried it yet.
+
+3. For Leopard users, you may install this private framework and try >>> import cv. http://www.cs.colostate.edu/facerec/algorithms/support/OpenCV2.1_rev3291_MacOS10.6.pkg It worked for me and saved me hours of time. Try it and let me know if it still works for you. 
+
+<h4>Windows Installation:</h4>
+1. Copy python-win/ to your disk
+2. In command line, do > python attention-win.py
+
+
+
 Roadmap:
-Web-based Attention Meter via Flash
+Web-based Attention Meter via Flash (coming soon in 2 weeks)
+Attention Meter + Video Chat (under development)
+iOS Attention Meter (under development)
 Face recognition
-Attention Meter + Video Chat
-iOS Attention Meter
+
+--
+Jackie Lee
+jackylee@media.mit.edu
