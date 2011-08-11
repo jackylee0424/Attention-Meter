@@ -2,7 +2,15 @@ Attention Meter
 ===============
 
 	Attention Meter is able to track multiple person's real-time facial attention.
-	It utilizes OpenCV to locate faces and to analyze face movement.
+	It utilizes OpenCV to locate faces and to analyze face movement. 
+	This project was initiated by Jackie Lee and Jon Wetzel in 2005.
+	I introduced this tool in the Asian Reality workshop ('05) and the Nightmarket Workshops ('06, '07, '08) in Taiwan.
+	Many students had used this tool for quick prototyping interactive exhibitions within the 3-5 day intensive workshop.
+	
+	Citation:
+	Chia-Hsun Jackie Lee , Jon Wetzel , Ted Selker, Enhancing interface design using attentive interaction design toolkit, 
+	ACM SIGGRAPH 2006 Educators program, July 30-August 03, 2006, Boston, Massachusetts. 
+
 [![](https://github.com/jackylee0424/Attention-Meter/raw/master/attention.jpg)](https://github.com/jackylee0424/Attention-Meter/raw/master/attention.jpg)
 
 Attention Meter in Python
@@ -47,5 +55,7 @@ Roadmap
 	* Other interesting stuff? Please let me know.
 
 --
+*Special Thanks to the original contributors- Jon Wetzel and Heymian Wong.
+
 Jackie Lee
 jackylee@media.mit.edu
