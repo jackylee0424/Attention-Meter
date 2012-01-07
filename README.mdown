@@ -21,9 +21,8 @@ Attention Meter in Python
 	if there is no error, it means you should be able to run Attention Meter: 
 	$ python attention.py
 	
-	2. For Lion users, your best bet is to follow 
-	http://br1ckb0x.fancy-bits.net/blog/?page_id=417 for installing OpenCV. 		
-	However, I haven't tried it yet.
+	2. For Lion users, you need Macports first. Then:
+    $ sudo port install opencv +python27
 
 	3. For Leopard users, you may install this OpenCV 2.1 private framework 
 	http://www.cs.colostate.edu/facerec/algorithms/support/OpenCV2.1_rev3291_MacOS10.6.pkg
@@ -46,6 +45,12 @@ Attention Meter in Flash CS5
 
 Roadmap
 ===============
+	* OpenCV face detect + Camshift
+    
+	* Render in OpenGL
+    
+	* Websocket Client/Server architecture
+    
 	* Attention Meter + Video Chat (under development)
 	
 	* iOS Attention Meter (under development)
